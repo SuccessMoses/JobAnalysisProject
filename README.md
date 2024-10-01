@@ -30,7 +30,7 @@ The project directory contains the following files:
 - **Project1notebook.ipynb:** The Jupyter Notebook used for data cleaning, analysis, and visualization.
 - **Project1notebook.html:** An HTML version of the Jupyter Notebook for easier viewing in web browsers.
 - **data:** A folder containing the cleaned data and any intermediate datasets used during analysis.
-- **dump.sql:** The SQL dump of the cleaned database.
+- **dump.zip:** The SQL dump of the cleaned database.
 
 ### Future Work
 
