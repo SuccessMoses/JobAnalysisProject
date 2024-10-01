@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing job postings scraped from LinkedIn, a popular platform for job seekers and employers. The dataset was sourced from Kaggle, where a contributor provided a collection of job postings that needed thorough cleaning and analysis. 
+This project focuses on analyzing job postings scraped from LinkedIn, a popular platform for job seekers and employers. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings), where a contributor provided a collection of job postings that needed thorough cleaning and analysis. 
 
 One of the standout features of this project is its **entire reproducibility**. By following the steps outlined in the Jupyter Notebook (`Project1notebook.ipynb`), users can easily replicate the entire data cleaning and analysis process. The project includes all necessary scripts and dependencies, ensuring that anyone can achieve the same results using the same dataset.
 
